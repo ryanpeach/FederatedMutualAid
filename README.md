@@ -28,7 +28,7 @@ Servers can then prompt members of the server to help with requests from other u
 
 1. In order to prevent picking a theory of value, we are going to go with non fungible, in-kind mass quantities of value. In essence, simple record keeping of the facts of an entity or transaction.
 2. Entities and transactions will be qualitatively reviewed as well as quantitatively measured, to handle the subjective and relative natures of value, rather than trying to create a universal and fungable theory of value.
-3. Entities will be recorded relative to each other via transactions (either realized or unrealized). For example, we may be able to constitute the "value" of a thing, rather than via a number, but through the number of similar entities (perhaps determined via embeddings, a supply so to speak) and quality of unrealized transactions those entities are involved in (their demand so to speak). This will allow us to create a network of value, rather than a metric of fungible value.
+3. Entities will be recorded relative to each other via transactions (either realized or unrealized). For example, we may be able to constitute the "value" of a thing, rather than via a number, but through the number of similar entities (perhaps determined via embeddings, a supply so to speak) and quantity*quality of unrealized transactions those entities are involved in (their demand so to speak). This will allow us to create a network of value, rather than a metric of fungible value.
 
 This is more similar to a gift economy, but done on a social media scale.
 

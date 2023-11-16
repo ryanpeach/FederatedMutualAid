@@ -34,6 +34,8 @@ This is more similar to a gift economy, but done on a social media scale.
 
 How will this scale? With data analytics of course! We will be able to use transparent data analytics to use the facts-of-the-matter to determine distribution of resources, mostly via human input, rather than trying to create a theory of value.
 
+For example by showing the provider the facts of the matter, they are able to make a best decision on how to distribute their resource. By incentivising them with good will and participation, they are likely to make the best decision for their network.
+
 ### Theory of Commodity
 
 We will not be using a theory of commodity, service, etc. We will be dividing things into "entities" (stuff of mass, including time), "transactions" (edges), and "users". A service might be a transaction of an entity of labor time between users. A comodity trade would be two transactions of moving two entities of mass between two users. A gift would be a transaction of an entity of mass from one user to another. Rent (say of a spare bedroom) would be a transaction of an entity of mass with a quantity of time associated, etc. All entities will also contain an optional (but highly encouraged) location, for the purpose of minimizing transportation costs, and tracking usufruct entities owned in common, and also in the future handling gig economy type work, as well as for an emphasis on green living and local economies.

@@ -40,7 +40,7 @@ Servers can then prompt members of the server to help with requests from other u
 
 This is more similar to a gift economy, but done on a social media scale.
 
-How will this scale? With data analytics of course! We will be able to use transparent data analytics to use the facts-of-the-matter to determine distribution of resources, mostly via human input, rather than trying to create a theory of value.
+How will this scale? With data analytics of course! We will be able to use transparent data analytics to use the facts-of-the-matter to determine distribution of resources, while fully maintaining human input at each level of the transaction.
 
 For example by showing the provider the facts of the matter, they are able to make a best decision on how to distribute their resource. By incentivising them with good will and participation, they are likely to make the best decision for their network.
 

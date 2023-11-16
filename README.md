@@ -71,3 +71,7 @@ We will learn from past social media in a few ways:
 2. Invitation will always be peer to peer, so we can regulate supply/demand on the servers and establish networks of trust (to prevent bot attacks). Banning an individual should be able to easily ban their entire tree of invitees, who could then re-add themselves with another invite without data-loss (data is never deleted automatically).
 3. Qualitative review, as far as it is measured in a fungible way, will be done soley through positive feedback (upvote analogues). This is to prevent toxicity and brigading. Moderation is sufficient to prevent bad actors from being able to participate in the network.
 4. Things and services will be automatically assigned rather than user selected. This will prevent brigading and burnout.
+
+## AI
+
+All AI activities will be local-hostable on small-scale and "green" hardware. Probably at most an embedding LLM and an instruct LLM, as well as data processing on the scale of XGBoost or those provided by sklearn. At the same time, all elements of this app are designed to be AI-first. The AI philosophy will be trustable, transparent, and made to provide modern convienience and more complicated economic decision making easier but also ethically.

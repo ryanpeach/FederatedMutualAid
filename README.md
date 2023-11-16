@@ -15,7 +15,6 @@ Servers can then prompt members of the server to help with requests from other u
 3. You may ask the bot for a thing or service, and it will try to provide it given you have reached a trust threshold. It will reach out to its database and to the network to find someone who can provide it and prompt them to do so, preventing overloading any one person.
 4. You may also provide the bot a promise of a thing or service, and it will try to find someone who needs it, and will ask you to provide it when it has. If you fulfill the promise, you will gain trust.
 5. If you have requested something of common ownership on the network, and you receive it, you will periodically be asked to return it to the network after an alloted rent timer established in the request. If you do not return it, you will lose trust.
-6. Trust can be arbitrarily given or removed from someone by the moderators. Trust levels are also arbitrary and can be set by the moderators.
 
 ## FAQ
 

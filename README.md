@@ -31,12 +31,12 @@ Servers can then prompt members of the server to help with requests from other u
 
 ## Theories
 
-### Valueless Philosophy
+### Calculation in Kind
 
-1. In order to prevent imposing a "theory of value" so to speak, and thus appealing to many types of systems, we are going to record non fungible, in-kind mass quantities. In essence, simple record keeping of the facts of an entity or transaction and their relationships.
-2. Entities and transactions will be qualitatively reviewed as well as quantitatively measured, to handle the subjective and relative natures of value, rather than trying to create a universal and fungable theory of value. This can be toggleable.
-3. Entities will be recorded relative to each other via transactions (either realized or unrealized). For example, that way you can track the number of similar entities (perhaps determined via embeddings, a supply so to speak) and quantity*quality of unrealized transactions those entities are involved in (their demand so to speak). This information can factor into allocation.
-4. The server host can use these mechanisms to write heuristics to determine the distribution of resources. For example, manual price setting, first come first serve, labor time, I suppose even USD exchange value if they are boring. This prevents the mechanics of the technology from imposing an ideology, but the servers themselves will certainly be ideological.
+1. The plan is to record non fungible, [in-kind](https://en.wikipedia.org/wiki/Calculation_in_kind) mass quantities. In essence, simple record keeping of the facts of an entity or transaction and their relationships.
+2. Entities and transactions will be qualitatively reviewed as well as quantitatively measured, and can be given arbitrary properties. For example, a book can be given a genre, a quality rating, a condition rating, a weight, etc. Qualitative review can be plain text review by consumers, or democratic voting systems, or whatever.
+3. Entities will be recorded relative to each other via transactions (either realized or unrealized). You can track the number of similar entities (perhaps determined via embeddings, a supply so to speak) and the quantity of unrealized transactions those entities are involved in (their demand so to speak). This information can factor into allocation.
+4. The server host can use these mechanisms to write heuristics to determine the distribution of resources. These heuristics can be made into a library and selected as a server option, for example, manual price setting, first come first serve allocation, labor time, trust rate limiting, etc. Existing tools for democratically managing communal decision makeing [loomio for example](https://github.com/loomio/loomio) can lead to server democracy. This prevents the mechanics of the technology from imposing an ideology, from which many modes of distribution can be explored.
 
 This is more similar to a gift economy, but done on a social media scale.
 

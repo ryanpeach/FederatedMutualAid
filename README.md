@@ -24,11 +24,12 @@ Servers can then prompt members of the server to help with requests from other u
 
 ## Theories
 
-### Theory of Value
+### Valueless Philosophy
 
-1. In order to prevent picking a theory of value, we are going to go with non fungible, in-kind mass quantities of value. In essence, simple record keeping of the facts of an entity or transaction.
-2. Entities and transactions will be qualitatively reviewed as well as quantitatively measured, to handle the subjective and relative natures of value, rather than trying to create a universal and fungable theory of value.
-3. Entities will be recorded relative to each other via transactions (either realized or unrealized). For example, we may be able to constitute the "value" of a thing, rather than via a number, but through the number of similar entities (perhaps determined via embeddings, a supply so to speak) and quantity*quality of unrealized transactions those entities are involved in (their demand so to speak). This will allow us to create a network of value, rather than a metric of fungible value.
+1. In order to prevent imposing a "theory of value" so to speak, and thus appealing to many types of systems, we are going to record non fungible, in-kind mass quantities. In essence, simple record keeping of the facts of an entity or transaction and their relationships.
+2. Entities and transactions will be qualitatively reviewed as well as quantitatively measured, to handle the subjective and relative natures of value, rather than trying to create a universal and fungable theory of value. This can be toggleable.
+3. Entities will be recorded relative to each other via transactions (either realized or unrealized). For example, that way you can track the number of similar entities (perhaps determined via embeddings, a supply so to speak) and quantity*quality of unrealized transactions those entities are involved in (their demand so to speak). This information can factor into allocation.
+4. The server host can use these mechanisms to write heuristics to determine the distribution of resources. For example, manual price setting, first come first serve, labor time, I suppose even USD exchange value if they are boring. This prevents the mechanics of the technology from imposing an ideology, but the servers themselves will certainly be ideological.
 
 This is more similar to a gift economy, but done on a social media scale.
 
@@ -36,11 +37,11 @@ How will this scale? With data analytics of course! We will be able to use trans
 
 For example by showing the provider the facts of the matter, they are able to make a best decision on how to distribute their resource. By incentivising them with good will and participation, they are likely to make the best decision for their network.
 
-### Theory of Commodity
+### Commodity Types
 
-We will not be using a theory of commodity, service, etc. We will be dividing things into "entities" (stuff of mass, including time), "transactions" (edges), and "users". A service might be a transaction of an entity of labor time between users. A comodity trade would be two transactions of moving two entities of mass between two users. A gift would be a transaction of an entity of mass from one user to another. Rent (say of a spare bedroom) would be a transaction of an entity of mass with a quantity of time associated, etc. All entities will also contain an optional (but highly encouraged) location, for the purpose of minimizing transportation costs, and tracking usufruct entities owned in common, and also in the future handling gig economy type work, as well as for an emphasis on green living and local economies.
+We will not be using commodity, service, etc to distinguish categories. We will be dividing things into "entities" (stuff of mass, including time), "transactions" (edges), and "users". A service might be a transaction of an entity of labor time between users. A comodity trade would be two transactions of moving two entities of mass between two users. A gift would be a transaction of an entity of mass from one user to another. Rent (say of a spare bedroom) would be a transaction of an entity of mass with a quantity of time associated, etc. All entities will also contain an optional (but highly encouraged) location, for the purpose of minimizing transportation costs, and tracking usufruct entities owned in common, and also in the future handling gig economy type work, as well as for an emphasis on green living and local economies.
 
-### Theory of Trust
+### Trust
 
 Trust is going to be very much vibes. Server moderators will have control of this metric more than any. Think Discourse. Removing the human element from the distribution of resources is one of many cardinal sins of modern economics.
 
@@ -62,7 +63,6 @@ I don't believe overconsuption will be a problem. The bot can simply rate limit 
 
 Basically the same as any entity, but definitely TBD for any special handling.
 
-
 ### Social Media
 
 We will learn from past social media in a few ways:
@@ -70,7 +70,7 @@ We will learn from past social media in a few ways:
 1. Trust will be established by the trust in the server, which will include moderation, and invitation. We will not be using crypto, as crypto does not enhance either trust or security, only complexity, obfuscation, and a thousand other problems.
 2. Invitation will always be peer to peer, so we can regulate supply/demand on the servers and establish networks of trust (to prevent bot attacks). Banning an individual should be able to easily ban their entire tree of invitees, who could then re-add themselves with another invite without data-loss (data is never deleted automatically).
 3. Qualitative review, as far as it is measured in a fungible way, will be done soley through positive feedback (upvote analogues). This is to prevent toxicity and brigading. Moderation is sufficient to prevent bad actors from being able to participate in the network.
-4. Things and services will be automatically assigned rather than user selected. This will prevent brigading and burnout.
+4. Things and services will be mediated through the bot rather than directly accessed by the user. This will prevent brigading and burnout, and "social media culture".
 
 ## AI
 

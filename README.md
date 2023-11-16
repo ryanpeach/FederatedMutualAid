@@ -16,6 +16,13 @@ Servers can then prompt members of the server to help with requests from other u
 4. You may also provide the bot a promise of a thing or service, and it will try to find someone who needs it, and will ask you to provide it when it has. If you fulfill the promise, you will gain trust.
 5. If you have requested something of common ownership on the network, and you receive it, you will periodically be asked to return it to the network after an alloted rent timer established in the request. If you do not return it, you will lose trust.
 
+## What are it's primary immediate uses?
+
+1. Medium sized local mutual aid networks in need of inventory management.
+2. Libraries of things. Buy nothing groups.
+3. Small scale local economies. (cults? amish? commune? whatever. no judgement.)
+4. Gig economy, rideshare, etc (coming eventually.)
+
 ## FAQ
 
 1. Will I be told what to do? - You will be requested to participate, and will get out of participation what you put into it. You will be able to choose what you do, and how much you do it. You will gain trust as you give, and will be able to take more as you gain trust.
